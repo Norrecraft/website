@@ -1,0 +1,27 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Nørrecraft"
+theme = "terrassa"
+
+[params]
+    description = "Software craftsmanship & DevOps coaching"
+    favicon = "favicon.ico"
+    logo = "logo.svg"
+
+[params.hero]
+    textColor = "" # Empty for default color
+
+[params.cta] # Call To Action
+    show = true
+    cta = "Learn more"  # Text message of the CTA
+    link = "learn_more" # Relative URL
+
+[params.contact]
+    email = "contact@norrecraft.com"
+    phone = "+33674904417"
+    address = "59 Boulevard Exelmans, 75016 Paris"
+
+[params.social]
+    twitter = "https://twitter.com/norrecraft"
+    github = "https://github.com/norrecraft"
+    linkedin = "https://www.linkedin.com/company/norrecraft"
